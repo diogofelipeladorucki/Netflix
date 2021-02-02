@@ -9,3 +9,4 @@ Desenvolver a página inicial do Netflix e implementar melhorias.
 - Biblioteca owl
 - VSCode e extensão Live Server
 - HTML, CSS
+- extensão collorZilla no chrome
